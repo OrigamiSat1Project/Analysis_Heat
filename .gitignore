@@ -1,0 +1,9 @@
+# gitignore file for manage repository
+
+# not ignore
+!*.m
+!As1.xlsx
+!V.xlsx
+
+# ignore
+*.xlsx
